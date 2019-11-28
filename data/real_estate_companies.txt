@@ -41,7 +41,6 @@ Baupost Group
 Beacon Capital Partners 
 Beals and Thomas Inc 
 BentallGreenOak
-Bentley University
 Bergmeyer Associates Inc 
 Berkeley Investments Inc 
 Berkshire Bank
@@ -56,8 +55,7 @@ Boston Development Group
 Boston Garden Development Corp 
 Boston Global Investors
 Boston Private Bank Trust Company
-Boston Properties Inc 
-Boston University Questrom School of Business
+Boston Properties Inc
 Bostonia Global Securities
 Bowditch Dewey LLP
 Boylston Properties
@@ -67,7 +65,6 @@ Brookfield Properties
 Brookline Bank
 Brookwood Financial Partners L P 
 Brown Rudnick LLP
-Bryant University
 BSC Group Inc 
 The Bulfinch Companies Inc 
 Bunker Hill Community College
@@ -207,9 +204,7 @@ GZA GeoEnvironmental Inc
 Haley Aldrich Inc 
 Hancock Associates
 Harriman
-Harvard Design School
 Harvard Real Estate
-Harvard University
 Haynes Group Inc 
 Hinckley Allen 
 Hines
@@ -238,7 +233,6 @@ JCJ Architecture
 Jefferson Apartment Group
 JLL
 John M Corcoran Company
-Johns Hopkins University
 Johnson O'Connor Feron Carucci LLP
 JP Morgan Asset Management
 JP Morgan Chase
@@ -289,7 +283,6 @@ McNamara Salvia
 McPhail Associates
 Melrose Wakefield Healthcare Proudly Wellforce
 Mintz Levin
-MIT
 MIT Center for Real Estate
 MIT Investment Management Company
 ML Strategies 
@@ -316,7 +309,6 @@ Nordblom Company
 NOREL Service Company Inc 
 Normandy Real Estate Partners
 Northeast Bank
-Northeastern University
 Northland Investment Corporation
 Northmarq Capital 
 NorthStar Ally 
@@ -427,13 +419,10 @@ Tremont Realty Capital
 ​Trident Ventures 
 Trinity Financial Inc 
 Tsoi Kobus Design
-Tufts University
 Turner Construction Company
 Two International Group
-UMass Dartmouth Center for Marketing Research
 Union Square Station Associates
 Unispace
-University of Massachusetts
 US1 Ventures
 Veitas Veitas Engineers Inc 
 Ver Tex Construction Specialties Inc 
