@@ -20,4 +20,4 @@ Team Members: Alikhan Nulanuly, Xing Yiquan,Michael Harding
 
 Detailed explanation in documentation.txt 
 
-Detailed final analysis report HERE
+Detailed final analysis report in the main directory.
