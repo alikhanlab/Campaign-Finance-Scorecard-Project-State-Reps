@@ -17,5 +17,20 @@ To develop a Campaign Finance Scorecard for elected Massachusetts State Represen
 ![Alt text](https://github.com/alikhanlab/Campaign-Finance-Scorecard-Project-State-Reps/blob/master/pics/data_preporation.png)
 
 - Clustering state reps candidates
+
+We perform k-means clustering and used number of unique donors over quarters(2 election cycles) as a feature set per candidate. There are 3 clusters, because we assume candidate fundraising ability and popularity can be binned into three categories(high, medium, low).
+The candidates in the same cluster means they are similar to each other and different than candidates from other clusters. 
+
 - Visualise finding 
 
+Visualisation includes research question answers to:
+Q1) Number of unique donors for all the quarters for the past 2 election cycles from 2015-2018
+Q2) Distribution of contributions across 5 contribution bands (<$25, $25-$99, $100-$249, $250-$499, $500-$1000)
+Q3) Geographical distribution of donors (using zipcodes)
+Q4) Monthly donations by PACs (Political Action Committees)
+Q5) PAC donations by industry sector
+Q6) Donations by Employer Types (excluding PACs)
+Q7) Donation by Donor Type
+
+
+Detailed final analysis report HERE
