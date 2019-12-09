@@ -2,7 +2,7 @@
 The final project for CAS CS 506 Computational Tools for Data Scince
 
 
-Project Title: Campaign Finance Scorecard - State Reps
+Project Title: Campaign Finance Scorecard - State Reps<br/>
 Team Members: Alikhan Nulanuly, Xing Yiquan,Michael Harding
 
 ## Background
@@ -23,14 +23,14 @@ The candidates in the same cluster means they are similar to each other and diff
 
 - Visualise finding 
 
-Visualisation includes research question answers to:
-Q1) Number of unique donors for all the quarters for the past 2 election cycles from 2015-2018
-Q2) Distribution of contributions across 5 contribution bands (<$25, $25-$99, $100-$249, $250-$499, $500-$1000)
-Q3) Geographical distribution of donors (using zipcodes)
-Q4) Monthly donations by PACs (Political Action Committees)
-Q5) PAC donations by industry sector
-Q6) Donations by Employer Types (excluding PACs)
-Q7) Donation by Donor Type
+Visualisation includes research question answers to:<br/>
+Q1) Number of unique donors for all the quarters for the past 2 election cycles from 2015-2018<br/>
+Q2) Distribution of contributions across 5 contribution bands (<$25, $25-$99, $100-$249, $250-$499, $500-$1000)<br/>
+Q3) Geographical distribution of donors (using zipcodes)<br/>
+Q4) Monthly donations by PACs (Political Action Committees)<br/>
+Q5) PAC donations by industry sector<br/>
+Q6) Donations by Employer Types (excluding PACs)<br/>
+Q7) Donation by Donor Type<br/>
 
 
 Detailed final analysis report HERE
